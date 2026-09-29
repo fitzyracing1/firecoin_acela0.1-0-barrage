@@ -1,0 +1,38 @@
+# firecoin_acela0.1-0
+
+> Solidity snapshot for Fire Coin (Acela 0.1-0). Sister of fire-coin-app.
+
+## Purpose
+Give a plain-language door to the contract snapshot. Source: fitzyracing1/firecoin_acela0.1-0.
+
+## How it works (plain English)
+1. Keep the original repo as the place for Solidity files.
+2. Use this clone to explain the idea.
+3. Send the reader back to the source.
+
+## Key ideas
+- Fire Coin contract snapshot
+- Acela 0.1-0
+- Solidity source
+
+## The actual code
+```
+# source: fitzyracing1/firecoin_acela0.1-0
+open_source()
+```
+
+## Line-by-line translation
+1. open_source() → “go to the Solidity snapshot”
+
+## Decisions the program makes
+- If a reader wants the app face → fire-coin-app
+- If a reader wants this contract snapshot → stay on the source
+
+## What a person would notice
+A named wrap on a token-contract snapshot.
+
+## Current status
+Barrage clone.
+
+## Next possible steps
+Open the source.
